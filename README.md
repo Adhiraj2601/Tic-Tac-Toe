@@ -31,7 +31,4 @@ A simple, interactive 2-player Tic-Tac-Toe game built with Python and Tkinter.
 
 A popup window will announce the winner or a draw, and the board will clear automatically for a new game.
 
-🛠️ Project Structure
-Plaintext
-├── main.py          # Core game logic and Tkinter GUI implementation
-└── README.md        # Project documentation
+
