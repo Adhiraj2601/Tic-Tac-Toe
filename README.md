@@ -25,10 +25,10 @@ A simple, interactive 2-player Tic-Tac-Toe game built with Python and Tkinter.
    python main.py
    
 ## 🎮 How to Play
-  -Player X always takes the first move.
-  -Click on any empty cell on the 3x3 grid to place your mark.
-  -The game will automatically detect when a player gets 3 marks in a row (horizontally, vertically, or diagonally) or if the board is full (Draw).
 
-A popup window will announce the winner or a draw, and the board will clear automatically for a new game.
+  - Player X always takes the first move.
+  - Click on any empty cell on the 3x3 grid to place your mark.
+  - The game will automatically detect when a player gets 3 marks in a row (horizontally, vertically, or diagonally) or if the board is full (Draw).
+  - A popup window will announce the winner or a draw, and the board will clear automatically for a new game.
 
 
